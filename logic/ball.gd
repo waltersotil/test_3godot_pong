@@ -1,5 +1,5 @@
 extends Area2D
-
+#Se agrego el sonido
 const DEFAULT_SPEED = 100
 
 var direction = Vector2.LEFT
